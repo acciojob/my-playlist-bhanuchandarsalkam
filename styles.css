@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.parent{
+	background-color:#cccccc;
+	height:600px;
+	padding:1px 10px;
+}
+.one{
+	background-color:white;
+	height:130px;
+	padding:5px;
+	width:600px;
+	border:1px solid black;
+}
+.item{
+    margin:10px;
+}
+.two{
+	background-color:white;
+	width:200px;
+	height:250px;
+	padding:3px;
+}
+.span{
+	padding:px;
+}
+
+
